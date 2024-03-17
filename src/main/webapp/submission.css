@@ -1,0 +1,18 @@
+.confirmation {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.confirmation h2 {
+    color: #333;
+}
+
+.confirmation p {
+    color: #666;
+    margin-bottom: 10px;
+}

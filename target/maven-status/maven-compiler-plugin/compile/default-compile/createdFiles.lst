@@ -1,0 +1,8 @@
+LoginServlet.class
+EmailServlet.class
+RegisterServlet.class
+RegisterServlet$1.class
+EmailServlet$1.class
+AddServlet.class
+AuthenticationFilter.class
+SignupServlet.class
